@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/sample-dapp/static/css/main.2d727ebc.chunk.css"
   },
   {
-    "revision": "8ef6a08cdc1154920165680a4edde771",
-    "url": "/sample-dapp/static/media/arrow_right.8ef6a08c.svg"
+    "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
+    "url": "/sample-dapp/static/media/Roboto-Bold.e31fcf18.ttf"
   },
   {
     "revision": "5a8a265c17784f7ac9bd",
@@ -20,16 +20,16 @@ self.__precacheManifest = [
     "url": "/sample-dapp/static/js/runtime~main.3ff2094d.js"
   },
   {
-    "revision": "af7ae505a9eed503f8b8e6982036873e",
-    "url": "/sample-dapp/static/media/fontawesome-webfont.af7ae505.woff2"
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "/sample-dapp/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
     "url": "/sample-dapp/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "/sample-dapp/static/media/fontawesome-webfont.674f50d2.eot"
+    "revision": "af7ae505a9eed503f8b8e6982036873e",
+    "url": "/sample-dapp/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
     "revision": "b06871f281fee6b241d60582ae9369b9",
@@ -40,12 +40,12 @@ self.__precacheManifest = [
     "url": "/sample-dapp/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "954bbdeb86483e4ffea00c4591530ece",
-    "url": "/sample-dapp/static/media/Roboto-Thin.954bbdeb.woff2"
-  },
-  {
     "revision": "dfe56a876d0282555d1e2458e278060f",
     "url": "/sample-dapp/static/media/Roboto-Thin.dfe56a87.eot"
+  },
+  {
+    "revision": "954bbdeb86483e4ffea00c4591530ece",
+    "url": "/sample-dapp/static/media/Roboto-Thin.954bbdeb.woff2"
   },
   {
     "revision": "7500519de3d82e33d1587f8042e2afcb",
@@ -96,12 +96,16 @@ self.__precacheManifest = [
     "url": "/sample-dapp/static/media/Roboto-Medium.574fd0b5.woff2"
   },
   {
-    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
-    "url": "/sample-dapp/static/media/Roboto-Medium.894a2ede.ttf"
-  },
-  {
     "revision": "fc78759e93a6cac50458610e3d9d63a0",
     "url": "/sample-dapp/static/media/Roboto-Medium.fc78759e.woff"
+  },
+  {
+    "revision": "ecdd509cadbf1ea78b8d2e31ec52328c",
+    "url": "/sample-dapp/static/media/Roboto-Bold.ecdd509c.eot"
+  },
+  {
+    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
+    "url": "/sample-dapp/static/media/Roboto-Medium.894a2ede.ttf"
   },
   {
     "revision": "39b2c3031be6b4ea96e2e3e95d307814",
@@ -112,16 +116,12 @@ self.__precacheManifest = [
     "url": "/sample-dapp/static/media/Roboto-Bold.dc81817d.woff"
   },
   {
-    "revision": "ecdd509cadbf1ea78b8d2e31ec52328c",
-    "url": "/sample-dapp/static/media/Roboto-Bold.ecdd509c.eot"
-  },
-  {
     "revision": "11911410dca2de148f30954eb2fd5eab",
     "url": "/sample-dapp/static/media/arrow_left.11911410.svg"
   },
   {
-    "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
-    "url": "/sample-dapp/static/media/Roboto-Bold.e31fcf18.ttf"
+    "revision": "8ef6a08cdc1154920165680a4edde771",
+    "url": "/sample-dapp/static/media/arrow_right.8ef6a08c.svg"
   },
   {
     "revision": "5a8a265c17784f7ac9bd",
