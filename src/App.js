@@ -230,8 +230,6 @@ class App extends Component {
   }
 
   render() {
-    if (this.web3 === undefined) return <div>Loading...</div>
-
     return (
       <>
         <Navbar color="indigo" dark expand="md" className="mb-3">
@@ -260,7 +258,7 @@ class App extends Component {
           { this.state.errors && <div className="alert alert-danger">{this.state.errors}</div> }
           { this.state.success && <div className="alert alert-success">{this.state.success}</div> }
           
-          {!this.state.correctNetwork &&
+          {(!this.state.correctNetwork || this.web3 === undefined) &&
             <Card>
               <CardBody>
                 Please check your configuration to ensure that MetaMask is configured properly, and is connected to the Kovan network
