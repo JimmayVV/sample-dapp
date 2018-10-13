@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/sample-dapp/static/media/Roboto-Light.3b813c2a.woff"
   },
   {
-    "revision": "af7cb0262e29b29c8878",
+    "revision": "97e764a610ffd6c906d1",
     "url": "/sample-dapp/static/css/main.2d727ebc.chunk.css"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = [
     "url": "/sample-dapp/static/js/runtime~main.3ff2094d.js"
   },
   {
+    "revision": "af7ae505a9eed503f8b8e6982036873e",
+    "url": "/sample-dapp/static/media/fontawesome-webfont.af7ae505.woff2"
+  },
+  {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
     "url": "/sample-dapp/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
     "url": "/sample-dapp/static/media/fontawesome-webfont.fee66e71.woff"
-  },
-  {
-    "revision": "af7ae505a9eed503f8b8e6982036873e",
-    "url": "/sample-dapp/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
     "revision": "b06871f281fee6b241d60582ae9369b9",
@@ -48,12 +48,12 @@ self.__precacheManifest = [
     "url": "/sample-dapp/static/media/Roboto-Thin.954bbdeb.woff2"
   },
   {
-    "revision": "7500519de3d82e33d1587f8042e2afcb",
-    "url": "/sample-dapp/static/media/Roboto-Thin.7500519d.woff"
-  },
-  {
     "revision": "94998475f6aea65f558494802416c1cf",
     "url": "/sample-dapp/static/media/Roboto-Thin.94998475.ttf"
+  },
+  {
+    "revision": "7500519de3d82e33d1587f8042e2afcb",
+    "url": "/sample-dapp/static/media/Roboto-Thin.7500519d.woff"
   },
   {
     "revision": "a990f611f2305dc12965f186c2ef2690",
@@ -64,8 +64,8 @@ self.__precacheManifest = [
     "url": "/sample-dapp/static/media/Roboto-Light.69f8a061.woff2"
   },
   {
-    "revision": "af7cb0262e29b29c8878",
-    "url": "/sample-dapp/static/js/main.af7cb026.chunk.js"
+    "revision": "97e764a610ffd6c906d1",
+    "url": "/sample-dapp/static/js/main.97e764a6.chunk.js"
   },
   {
     "revision": "46e48ce0628835f68a7369d0254e4283",
@@ -116,19 +116,19 @@ self.__precacheManifest = [
     "url": "/sample-dapp/static/media/Roboto-Bold.dc81817d.woff"
   },
   {
-    "revision": "11911410dca2de148f30954eb2fd5eab",
-    "url": "/sample-dapp/static/media/arrow_left.11911410.svg"
-  },
-  {
     "revision": "8ef6a08cdc1154920165680a4edde771",
     "url": "/sample-dapp/static/media/arrow_right.8ef6a08c.svg"
+  },
+  {
+    "revision": "11911410dca2de148f30954eb2fd5eab",
+    "url": "/sample-dapp/static/media/arrow_left.11911410.svg"
   },
   {
     "revision": "5a8a265c17784f7ac9bd",
     "url": "/sample-dapp/static/css/1.acaf0f60.chunk.css"
   },
   {
-    "revision": "c1d029e15e46f8e2f17c8229d9ebbd1f",
+    "revision": "84634c86c2afb37d886f38c7bdef9184",
     "url": "/sample-dapp/index.html"
   }
 ];
