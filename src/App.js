@@ -296,7 +296,7 @@ class App extends Component {
                       <h5>Withdraw from your vault:</h5>
                       <Input
                         type="tel"
-                        label="Amount to deposit"
+                        label="Amount to withdraw"
                         pattern={'[0-9]*'}
                         value={this.state.withdrawInput}
                         onChange={this.withdrawInputChange}
